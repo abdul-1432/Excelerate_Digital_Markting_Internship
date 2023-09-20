@@ -6,7 +6,7 @@ Welcome to the Excelerate Digital Marketing Internship repository! Here you will
 
 - **Internship Position:** Digital Marketing Intern
 - **Internship Duration:** [Aug] - [Sep]
-- **Location:** [City, State]
+- **Location:** [Remote USA]
 - **Supervisor:** [Supervisor's Name]
 
 ## About Excelerate Digital
