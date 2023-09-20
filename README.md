@@ -60,5 +60,3 @@ Your growth and learning are important to us. You will receive feedback and eval
 In addition to the project-specific resources in this repository, we have curated a list of additional resources and readings to enhance your knowledge and skills in digital marketing. Check the "Additional Resources" section in the handbook for more information.
 
 We are excited to have you as part of the Excelerate Digital Marketing team! If you have any questions or need assistance, feel free to reach out to your mentors or fellow interns on Slack. Good luck, and let's excel together in the world of digital marketing!
-
-**Note:** This README serves as a general guideline for the Excelerate Digital Marketing Internship GitHub repository. Be sure to refer to the Internship Handbook and specific project repositories for more detailed instructions and information.
