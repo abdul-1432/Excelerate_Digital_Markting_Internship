@@ -28,7 +28,7 @@ As a Digital Marketing Intern at Excelerate Digital, you will have the opportuni
 1. **Clone this Repository:** Start by cloning this GitHub repository to your local machine. You can use the following command in your terminal:
 
    ```bash
-   git clone [https://github.com/abdul-1432/Excelerate_Digital_Markting_Internship
+   git clone https://github.com/abdul-1432/Excelerate_Digital_Markting_Internship
    ```
 
 2. **Read the Documentation:** Explore the repository to access important documentation, resources, and guidelines for your internship.
