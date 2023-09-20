@@ -7,7 +7,7 @@ Welcome to the Excelerate Digital Marketing Internship repository! Here you will
 - **Internship Position:** Digital Marketing Intern
 - **Internship Duration:** [Aug] - [Sep]
 - **Location:** [Remote USA]
-- **Supervisor:** [Supervisor's Name]
+- **Supervisor:** [Nandhaini Mam]
 
 ## About Excelerate Digital
 
@@ -28,7 +28,7 @@ As a Digital Marketing Intern at Excelerate Digital, you will have the opportuni
 1. **Clone this Repository:** Start by cloning this GitHub repository to your local machine. You can use the following command in your terminal:
 
    ```bash
-   git clone [repository URL]
+   git clone [https://github.com/abdul-1432/Excelerate_Digital_Markting_Internship]
    ```
 
 2. **Read the Documentation:** Explore the repository to access important documentation, resources, and guidelines for your internship.
