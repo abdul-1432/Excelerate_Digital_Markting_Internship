@@ -41,7 +41,7 @@ As a Digital Marketing Intern at Excelerate Digital, you will have the opportuni
 
 - **Slack:** We use Slack for team communication. You will receive an invitation to join our Slack workspace. Please use the appropriate channels for questions, updates, and discussions.
 
-- **Email:** [Provide contact information for internship-related email communication.]
+- **Email:** [gafoor.mngr@gmail.com]
 
 ## Internship Goals
 
